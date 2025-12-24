@@ -13,5 +13,7 @@
         // Display the current date and time
         echo "<p>Current date and time: " . date("Y-m-d H:i:s") . "</p>";
     ?>
+
+    <h1>h1 heading tag</h1>
 </body>
 </html>
