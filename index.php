@@ -6,6 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Welcome to My Website</h1>
+    <p>This is a sample PHP page.</p>
+
+    <?php
+        // Display the current date and time
+        echo "<p>Current date and time: " . date("Y-m-d H:i:s") . "</p>";
+    ?>
 </body>
 </html>
